@@ -1,0 +1,35 @@
+body {
+  padding: 10px;
+  font-family: Courier, Georgia, monospace
+}
+
+input {
+  margin: 5px;
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 20px 0
+}
+
+.group message {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 20px 0;
+}
+
+textarea {
+display: flex;
+flex-direction: column;
+height: 100px;
+margin: 0 0 20px 0
+}
+
+label {
+  margin-bottom: 2px
+}
+input {
+  margin: 0 0 0 0
+  
+}
